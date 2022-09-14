@@ -17,8 +17,8 @@
 
 <h2>Tecnologias mais utilizadas</h2>
 <p align="center">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=betossauro&show_icons=true&theme=midnight-purple" alt="betossauro's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betossauro&layout=compact&theme=midnight-purple" alt="betossauro's most languages"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=betossauro&show_icons=true&theme=midnight-purple" alt="betossauro's stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betossauro&layout=compact&theme=midnight-purple" alt="betossauro's most languages"/>
 </p>
 
 <h2>Redes Sociais</h2>
