@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://media.giphy.com/media/W4CJ8xy0noyja0fgdo/giphy.gif" />
+<img align="right" height="500" src="https://media.giphy.com/media/QxSveBdhdtLgagcKdR/giphy.gif" />
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Beto</h1>
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas
@@ -14,7 +14,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-9572fc?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-9572fc?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9572fc?style=flat&logo=javascript)&nbsp;
-
+<br><br><br><br>
 <h2>Tecnologias mais utilizadas</h2>
 <p align="center">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=betossauro&show_icons=true&theme=midnight-purple" alt="betossauro's stats"/>
