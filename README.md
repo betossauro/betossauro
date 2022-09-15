@@ -1,4 +1,4 @@
-<img align="right" height="500" src="https://media.giphy.com/media/QxSveBdhdtLgagcKdR/giphy.gif" />
+<img align="right" height="450" src="https://media.giphy.com/media/QxSveBdhdtLgagcKdR/giphy.gif" />
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Beto</h1>
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas
