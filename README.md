@@ -9,11 +9,11 @@
 <br><br><br><br>
 <h2>Tecnologias de interesse</h2>
 
-![Java](https://img.shields.io/badge/-Java-9572fc?style=flat&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-9572fc?style=flat&logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-9572fc?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-9572fc?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-9572fc?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 <br><br><br><br>
 <h2>Tecnologias mais utilizadas</h2>
 <p align="center">
