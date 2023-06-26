@@ -1,5 +1,5 @@
 <img align="right" height="400" src="https://media.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif" />
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Beto</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Beto 🦖</h1>
 
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas
