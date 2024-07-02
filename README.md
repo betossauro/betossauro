@@ -1,11 +1,10 @@
-<img align="right" height="400" src="https://media.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif" />
-<h2 align="left">Hi, I'm Beto 🦖</h2>
+<h3 align="left">Hi, I'm Beto 🦖</h3>
 
 - 📚 System Analysis and Developer Student
 
 - 👨🏻‍💻 Learning mobile development
 
-- 🎮 Playing on my free time
+- 🎮 I like to play on my free time
 <br>
 <h3>Skills</h3>
 
