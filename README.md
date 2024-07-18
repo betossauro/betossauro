@@ -1,8 +1,8 @@
 <h3 align="left">Hi, I'm Beto 🦖</h3>
 
-- 📚 System Analysis and Developer Student
+- 📚 Graduated in Systems Analysis and Development
 
-- 👨🏻‍💻 Learning mobile development
+- 👨🏻‍💻 Learning mobile development (Flutter currently)
 
 - 🎮 I like to play on my free time
 <br>
